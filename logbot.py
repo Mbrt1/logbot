@@ -69,8 +69,8 @@ DEBUG = False
 SERVER = "irc.freenode.net"
 PORT = 6667
 SERVER_PASS = None
-CHANNELS=["#excid3","#keryx"]
-NICK = "timber"
+CHANNELS=["#ays-diskusi"]
+NICK = "aysboy"
 NICK_PASS = ""
 
 # The local folder to save logs
