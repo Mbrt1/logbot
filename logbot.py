@@ -66,15 +66,15 @@ def urlify2(value):
 DEBUG = False
 
 # IRC Server Configuration
-SERVER = "chat.freenode.net"
-PORT = 7000
+SERVER = "irc.freenode.net"
+PORT = 6667
 SERVER_PASS = None
 CHANNELS=["#ays-diskusi"]
 NICK = "baysb"
 NICK_PASS = ""
 
 # The local folder to save logs
-LOG_FOLDER = "$HOME/public_html/logs"
+LOG_FOLDER = "l"
 
 # The message returned when someone messages the bot
 HELP_MESSAGE = "Contact Arifys"
